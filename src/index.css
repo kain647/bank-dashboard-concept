@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  line-height: 1.5;
+  font-family: "Be Vietnam Pro", sans-serif;
+  background-color: #1f1f1f;
+  color: #fff;
+  /*padding-top: 3vw;*/
+  /*padding-bottom: 3vw;*/
+  font-family: -apple-system, "Be Vietnam Pro", BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
